@@ -1,0 +1,4 @@
+split_id,worst_max_abs_diff,tol,passed
+h1,7.62939453125e-06,1e-05,True
+h2,7.62939453125e-06,1e-05,True
+h3,7.62939453125e-06,1e-05,True

@@ -1,0 +1,6 @@
+split_id,worst_max_abs_diff,tol,passed
+stem,0.0,0.0001,True
+layer1,0.0,0.0001,True
+layer2,0.0,0.0001,True
+layer3,0.0,0.0001,True
+layer4,0.0,0.0001,True

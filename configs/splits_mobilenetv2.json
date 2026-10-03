@@ -1,0 +1,30 @@
+[
+  {
+    "split_id": "features_0",
+    "description": "After features[0]"
+  },
+  {
+    "split_id": "features_3",
+    "description": "After features[3]"
+  },
+  {
+    "split_id": "features_6",
+    "description": "After features[6]"
+  },
+  {
+    "split_id": "features_10",
+    "description": "After features[10]"
+  },
+  {
+    "split_id": "features_13",
+    "description": "After features[13]"
+  },
+  {
+    "split_id": "features_16",
+    "description": "After features[16]"
+  },
+  {
+    "split_id": "features_18",
+    "description": "After features[18]"
+  }
+]

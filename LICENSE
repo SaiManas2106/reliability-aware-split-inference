@@ -1,0 +1,8 @@
+# Licensing
+
+This repository uses separate licenses for source code and research material.
+
+- Original source code and configuration files are licensed under the MIT License. See `LICENSE-CODE`.
+- Original documentation, request-level logs, result CSV files, and the retained MLP checkpoint are licensed under the Creative Commons Attribution 4.0 International License. See `LICENSE-DATA`.
+- Third-party software, datasets, and pretrained model weights remain subject to their original terms. See `THIRD_PARTY_NOTICES.md`.
+- The licenses in this repository apply only to material for which the author holds the necessary rights. Relevant third-party terms still apply.

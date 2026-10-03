@@ -1,0 +1,4 @@
+split_id,front_ms_mean,back_ms_mean,act_bytes_mean,http_roundtrip_ms_mean,server_compute_ms_mean
+h1,0.326,2.407,2601.0,55.140,2.407
+h2,0.154,2.218,2089.0,59.652,2.218
+h3,0.175,2.058,1833.0,56.189,2.058

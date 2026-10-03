@@ -1,0 +1,22 @@
+[
+  {
+    "split_id": "stem",
+    "description": "After conv1/bn1/relu/maxpool"
+  },
+  {
+    "split_id": "layer1",
+    "description": "After layer1"
+  },
+  {
+    "split_id": "layer2",
+    "description": "After layer2"
+  },
+  {
+    "split_id": "layer3",
+    "description": "After layer3"
+  },
+  {
+    "split_id": "layer4",
+    "description": "After layer4 (almost end)"
+  }
+]

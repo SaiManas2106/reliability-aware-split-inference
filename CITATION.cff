@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this research artefact, please cite this software release."
+title: "Reliability-Aware Dynamic Split Inference for Edge-Cloud DNNs under Variable Conditions"
+type: software
+authors:
+  - family-names: Masetty
+    given-names: Sai Manas
+version: 1.0.0
+date-released: 2026-10-03
+repository-code: "https://github.com/SaiManas2106/reliability-aware-split-inference"
+url: "https://github.com/SaiManas2106/reliability-aware-split-inference/releases/tag/v1.0.0"
+keywords:
+  - split inference
+  - edge computing
+  - cloud computing
+  - deep neural networks
+  - reliability

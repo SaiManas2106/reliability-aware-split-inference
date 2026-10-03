@@ -1,0 +1,6 @@
+split_id,front_ms_mean,back_ms_mean,act_bytes_mean,http_roundtrip_ms_mean,server_compute_ms_mean
+stem,2.974,191.711,804393.0,252.743,191.711
+layer1,6.114,152.354,804393.0,209.965,152.354
+layer2,8.518,109.340,402985.0,165.549,109.340
+layer3,11.624,72.683,202281.0,127.157,72.683
+layer4,17.092,47.647,101929.0,103.063,47.647

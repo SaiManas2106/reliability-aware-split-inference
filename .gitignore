@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Downloaded third-party datasets and model caches are not part of this release.
+data/
+local_outputs/
+
+# Temporary local outputs.
+*.tmp
+*.log

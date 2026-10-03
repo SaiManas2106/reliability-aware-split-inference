@@ -1,0 +1,14 @@
+[
+  {
+    "split_id": "h1",
+    "description": "After first hidden layer"
+  },
+  {
+    "split_id": "h2",
+    "description": "After second hidden layer"
+  },
+  {
+    "split_id": "h3",
+    "description": "After third hidden layer"
+  }
+]
